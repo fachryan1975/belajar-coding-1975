@@ -1,7 +1,4 @@
 Materi belajar coding di 2024
-- belajar npm
-> belajar git and git hub
-> belajat instaler
 
 - belajar javascript
 > belajar data type
@@ -15,5 +12,9 @@ Materi belajar coding di 2024
 
 - belajar data base
 > belajar server
+
+- belajar npm
+> belajar git and git hub
+> belajat instaler
 
 
