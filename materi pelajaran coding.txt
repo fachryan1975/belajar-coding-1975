@@ -1,7 +1,9 @@
 Materi belajar coding di 2024
 - belajar javascript
+- belajar tailwind
 - belajar react js
 - belajar node js
 - belajar data base
+- belajar server optimasi
 
 
