@@ -1,9 +1,6 @@
 Materi belajar coding di 2024
 - belajar full stack
-- belajar bootsrape
 - belajar codepan
-- belajar node js
-- belajar data base
-- belajar server optimasi
-
+- belajar frameworks aja
+- belajar gaming pad
 
